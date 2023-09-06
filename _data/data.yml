@@ -8,36 +8,36 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Mohd Iftakhar Ahamad
+    tagline: Java Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
+    email: iftakhar@iftakhar.io
+    phone: +44 7495386888
+    timezone: British Summer Time (BST)
     citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    website: iftakhar.io #do not add http://
+    linkedin: iamiftakhar
+    xing: 
+    github: iftakharGit
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: https://iftakhar-resume.s3.eu-west-2.amazonaws.com/Mohd+Iftakhar+Ahamad+Resume.pdf
 
     languages:
       title: Languages
       info:
         - idiom: English
-          level: Native
-
-        - idiom: French
           level: Professional
+
+        - idiom: Hindi
+          level: Native
 
         - idiom: Spanish
           level: Professional
@@ -45,221 +45,119 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Exploring distant lands
           link:
 
-        - item: Snowboarding
+        - item: Feeling the music
           link:
 
-        - item: Cooking
+        - item: Every kind of sport
+          link:
+          
+        - item: Sci-fi Movie
           link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Highly skilled Java and AWS Certified Developer with proven expertise in designing,
+      developing, and maintaining robust and efficient software applications. Proficient in Java technologies and frameworks,
+      with a deep understanding of object-oriented programming principles. 
+      Skilled in leading and collaborating with cross-functional teams to deliver high-quality solutions. 
+      Adept at problem-solving and optimizing code for performance and scalability. 
+      Strong communicator with a track record of mentoring junior developers and driving successful project outcomes. 
+      Committed to staying current with industry trends and continuously enhancing skills to deliver cutting-edge solutions.
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: Bachelor of Technology
+        university: Integral University
+        time: 2013-2017
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Completed Bachelor of Science in Computer Science Engineering, equipping me with a strong foundation in algorithms,
+          data structures, software development methodologies, and problem-solving techniques. 
 
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Software develope
+        time: 07/2021 - Present
+        company: Empower, Remote
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          I developed and maintained robust, scalable applications while collaborating with cross-functional teams to align software solutions with business requirements.
+          My responsibilities included debugging complex technical issues, conducting code reviews to enhance code quality, and configuring monitoring solutions for critical APIs. 
+          I also played a vital role in disaster recovery processes, ensuring real-time health assessment and optimal performance maintenance.
+      - role: Software Development Engineer
+        time: 09/2019 – 06/2021
+        company: Boeing, Bengaluru
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
+          Developed and executed robust Java applications, employing object-oriented
+          programming principles and design patterns to optimize system reliability and
+          performance.
+          Cooperated closely with cross-functional teams to gather requirements, design, and
+          implement scalable software solutions, ensuring strict adherence to coding
+          standards and industry best practices.
+          Conducted rigorous testing and debugging of Java code, identifying and rectifying
+          software defects.
+          Offered valuable technical guidance and mentorship to junior development team
+          members, fostering a collaborative work environment and facilitating their
+          professional growth.
+      - role: Software Engineer
         time: 2012 - 2014
-        company: Amazon, London
+        company: Tata Consultancy Services, Pune
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Collaborated within a dynamic team of software developers to design, implement, and test robust and scalable code solutions, contributing to successful project deliveries
+          Assisted in troubleshooting and debugging software issues, rapidly identifying root causes and implementing effective fixes to ensure seamless functionality.
+          Participated in agile development methodologies, attending sprint planning and daily stand-up meetings, and actively contributing to sprint goals and timelines
 
 certifications:
       title: Certifications
       list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
+        - name: AWS Certified Developer - Associate
+          start: 09/2023
+          end: 09/2026
+          organization: Amazon Web Services (AWS)
+          credentialid: ZW4LKV719NQ4Q53F
+          credentialurl: https://aws.amazon.com/verification
+          credentialname: AWS
           details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+            AWS Certified Developer - Associate showcases knowledge and understanding of core AWS services, uses, and basic AWS architecture best practices,
+            and proficiency in developing, deploying, and debugging cloud-based applications by using AWS. Preparing for and attaining this certification gives
+            certified individuals more confidence and credibility. Organizations with AWS Certified developers have the assurance of having the right talent 
+            to give them a competitive advantage and ensure stakeholder and customer satisfaction.
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Core Java 
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: Java frameworks (e.g., Spring Boot)
         level: 98%
 
-      - name: Angular
+      - name: Amazon Web Services
         level: 98%
 
-      - name: HTML5 & CSS
+      - name: Database
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Rest API
+        level: 95%
+        
+      - name: Microservices
         level: 85%
-
-      - name: Sketch & Photoshop
+    
+      - name: Docker
+        level: 85%
+        
+      - name: Cloud Computing
+        level: 90%
+        
+      - name: API Monitoring(AppDynamics, Kibana )
+        level: 90%
+        
+        - name: Angular
         level: 60%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
