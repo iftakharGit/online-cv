@@ -157,7 +157,7 @@ skills:
       - name: API Monitoring(AppDynamics, Kibana )
         level: 90%
         
-        - name: Angular
+      - name: Angular
         level: 60%
 
 footer: >
